@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/autoscale.xpm</file>
+        <file>images/spettro1.xpm</file>
+        <file>images/zoom_left.xpm</file>
+        <file>images/zoom_patt.xpm</file>
+        <file>images/zoom_right.xpm</file>
+        <file>images/selectoff.png</file>
+        <file>images/pan.png</file>
+        <file>images/vertical_zoom.png</file>
+        <file>images/horizontal_zoom.png</file>
+        <file>images/legendaoff.xpm</file>
+        <file>images/legendaon.xpm</file>
+    </qresource>
+</RCC>
